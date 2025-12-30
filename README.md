@@ -2,7 +2,7 @@
 
 <h2>各データセットに1,000件以上のレコードを含む、B2Bデータセットのサンプル集です。</h2>
 
-![B2B dataset header](https://github.com/luminati-io/B2B-business-dataset-samples/blob/main/b2b-datasets.PNG)
+![B2B dataset header](https://github.com/bright-jp/B2B-business-dataset-samples/blob/main/b2b-datasets.PNG)
 
 合計で数千件のレコードを含むビジネスデータセットのサンプルです。すべてのデータセットは <b>Bright Data API</b> を使用して抽出されました。
 
